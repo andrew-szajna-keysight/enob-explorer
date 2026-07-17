@@ -1,0 +1,11 @@
+name: enob-explorer
+channels:
+  - https://repo.mamba.pm/emscripten-forge
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - ipympl
